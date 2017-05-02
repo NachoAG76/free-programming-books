@@ -57,7 +57,6 @@
 ### Livros
 
 * [Eloquent Javascript PT-BR](https://github.com/braziljs/eloquente-javascript)
-* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 
 
